@@ -1,5 +1,5 @@
-# Homework 2: Stars
-Working with your partner, you will have 4 problems to write computational essays for this week. Like last time, please make sure you export the essay as a _standalone_ HTML file, and please name them according to the problem number.
+# Homework 3: Stars Temps and Speeds
+Working with your partner, you have one problem to write computational essays for this week. Like last time, please make sure you export the essay as a _standalone_ HTML file.
 
-Data for all the problems is contained within the `/data` folder, and are simple CSV files of stellar spectra. Note though that for problem 3 you will need to unzip the CSV file, as it was too large otherwise to fit in the GitHub repository.
+Data for the problem is contained within the `/data` folder, and is a simple CSV file of stellar spectra. 
 
